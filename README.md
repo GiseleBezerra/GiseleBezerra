@@ -2,7 +2,7 @@
 <h3 align="center">Back-end Developer | Front-end Developer</h3>
 
 <br><br>
-- I’m currently learning **Java, JavaScript, Spring, Scrum, Git & GitHub**
+- I’m currently learning **Java, SpringBoot, Scrum, Git & GitHub**
 
 - Know about my experiences: Html, Css and JavaScript to websites.
 
