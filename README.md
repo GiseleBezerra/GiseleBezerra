@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'am Gisele Bezerra de Almeida</h1>
-<h3 align="center">Back-end Developer | Front-end Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <br><br>
 - I’m currently learning **Java, SpringBoot, Scrum, AWS, Git & GitHub**
