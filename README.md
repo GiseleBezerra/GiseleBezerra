@@ -1,54 +1,164 @@
-<h1 align="center">Hello, I'am Gisele Bezerra de Almeida</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">👋 Hello, I'm Gisele Bezerra de Almeida</h1>
 
-<br><br>
-- I’m currently learning **Java, SpringBoot, Scrum, AWS, Git & GitHub**
+<h3 align="center"> Developer in Progress ☕ | Java • Spring • AWS</h3>
 
-- Know about my experiences: Html, Css and JavaScript to websites.
-
-- How to reach me: &nbsp;<a href="mailto:giselealmeida.trab@gmail.com" target="_blank">giselealmeida.trab@gmail.com </a>
-  
-<br><br>
-
-<h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gisele-bezerra" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-  <a href="https://api.whatsapp.com/send?phone=5513997470423" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-%25B0%2585%25E2%2580%258E%2300E676?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"> </a>
+Passionate about software development, APIs, integrations and backend architecture.
 </p>
 
-<br><br>
+<br>
 
-<h3 align="center">Languages and Tools</h3>
+<div align="center">
 
-<p align="center"> 
-  Frontend: <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a     href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Java+Backend+Developer;Spring+Boot+Learner;AWS+Cloud+Student;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+## 🚀 Currently Learning
+
+* ☕ Java
+* 🌱 Spring Framework / Spring Boot
+* ☁️ AWS Cloud
+* 🔄 REST APIs
+* 🏗️ Backend Architecture
+* 📋 Scrum
+* 🐙 Git & GitHub
+
+---
+
+## 💼 About Me
+
+* 🎓 Computer Science Student
+* 💻 Experience with Full Stack Development
+* 🔌 Experience with APIs and Systems Integration
+* 📚 Constantly studying Software Engineering best practices
+* 🎯 Goal: Become a Backend Java Developer
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gisele-bezerra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:giselealmeida.trab@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://api.whatsapp.com/send?phone=5513997470423" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
-<p align="center"> 
-  Backend:
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-</p>
-<p align="center"> 
-  Database:
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
+---
 
+## 🛠️ Languages & Tools
 
+### Backend
 
-<br><br>
-
-<h3 align="center">Languages</h3>
-<p>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiseleBezerra&show_icons=true&locale=en&layout=compact&langs_count=50&theme=merko" alt="GiseleBezerra" width="350" height="250"/> 
-  </div>
-  <br><br>
-  <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GiseleBezerra&theme=merko" alt="GiseleBezerra" width="400"/>
-  </div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,php,python,cs,express" />
 </p>
 
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Cloud & Dev Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github" />
+</p>
+
+### Other Knowledge
+
+<p align="center">
+
+🔹 SQL
+🔹 C
+🔹 SAL (Centura Developer)
+🔹 Scrum
+
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### CRUD Funcionário
+
+✔️ Java
+✔️ Object-Oriented Programming
+✔️ Business Rules
+✔️ Validations
+✔️ Collections
+
+🔗 https://github.com/GiseleBezerra/Crud-Funcionario
+
+### Estudos Java
+
+Repository dedicated to Java learning and practice.
+
+🔗 https://github.com/GiseleBezerra/estudos-java
+
+### Lógica de Programação
+
+Programming logic exercises and problem solving.
+
+🔗 https://github.com/GiseleBezerra/logica-de-programacao
+
+### Saúde Conecta
+
+Repository of a university project
+
+🔗 https://github.com/GiseleBezerra/saude-conecta
 
 
-<br><br>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GiseleBezerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiseleBezerra&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GiseleBezerra&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Improve Java fundamentals
+* 🔄 Master Spring Boot
+* ☁️ Learn AWS services
+* 🔄 Build REST APIs
+* 📦 Develop complete backend projects
+* 🚀 Get a Backend Developer position
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
