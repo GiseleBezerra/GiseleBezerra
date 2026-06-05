@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Gisele Bezerra de Almeida</h1>
 
-<h3 align="center">☕ Desenvolvedora | Spring • AWS</h3>
+<h3 align="center">☕ Desenvolvedora de Softwares | Spring • AWS</h3>
 
 <p align="center">
 Apaixonada por desenvolvimento de software, APIs, integrações e arquitetura backend.
