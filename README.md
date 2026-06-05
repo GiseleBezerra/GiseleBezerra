@@ -10,7 +10,7 @@ Apaixonada por desenvolvimento de software, APIs, integrações e arquitetura ba
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedora+de+Sistemas;Estudando+Spring+Boot;Aprendendo+AWS;Construindo+Projetos+e+APIs;Sempre+Aprendendo+Novas+Tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedora+de+Sistemas;Estudando+Spring+Boot;Aprendendo+AWS;Sempre+Aprendendo+Novas+Tecnologias" />
 
 </div>
 
@@ -33,6 +33,10 @@ Apaixonada por desenvolvimento de software, APIs, integrações e arquitetura ba
 * 💻 Experiência com desenvolvimento Full Stack
 * 🔌 Experiência com APIs e Integração de Sistemas
 * 📚 Estudando continuamente boas práticas de Engenharia de Software
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k0cTI0bm1yMTNqaWNhamtiYjlzaHFwN3Nsd3g4aHBneGZyZ3l6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="400px">
+</div>
 
 ---
 
