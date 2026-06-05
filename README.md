@@ -140,7 +140,7 @@ Projeto acadêmico desenvolvido em equipe.
 ## ⚡ Stack Principal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,aws,mysql,git,github,php,python,js,ts,html,css,cs" />
+<img src="https://skillicons.dev/icons?i=java,spring,aws,git,github,php,python,js,ts,html,css,cs" />
 </p>
 
 ---
