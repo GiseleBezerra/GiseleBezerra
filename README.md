@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou Gisele Bezerra de Almeida</h1>
 
-<h3 align="center">☕ Desenvolvedora em Formação | Spring • AWS</h3>
+<h3 align="center">☕ Desenvolvedora | Spring • AWS</h3>
 
 <p align="center">
 Apaixonada por desenvolvimento de software, APIs, integrações e arquitetura backend.
@@ -33,7 +33,6 @@ Apaixonada por desenvolvimento de software, APIs, integrações e arquitetura ba
 * 💻 Experiência com desenvolvimento Full Stack
 * 🔌 Experiência com APIs e Integração de Sistemas
 * 📚 Estudando continuamente boas práticas de Engenharia de Software
-* 🎯 Objetivo: Tornar-me Desenvolvedora
 
 ---
 
