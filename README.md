@@ -1,44 +1,43 @@
-<h1 align="center">👋 Hello, I'm Gisele Bezerra de Almeida</h1>
+<h1 align="center">👋 Olá, eu sou Gisele Bezerra de Almeida</h1>
 
-<h3 align="center"> Developer in Progress ☕ | Java • Spring • AWS</h3>
+<h3 align="center">☕ Desenvolvedora em Formação | Spring • AWS</h3>
 
 <p align="center">
-Passionate about software development, APIs, integrations and backend architecture.
+Apaixonada por desenvolvimento de software, APIs, integrações e arquitetura backend.
 </p>
 
 <br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Java+Backend+Developer;Spring+Boot+Learner;AWS+Cloud+Student;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedora+de+Sistemas;Estudando+Spring+Boot;Aprendendo+AWS;Construindo+Projetos+e+APIs;Sempre+Aprendendo+Novas+Tecnologias" />
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Atualmente Estudando
 
 * ☕ Java
 * 🌱 Spring Framework / Spring Boot
 * ☁️ AWS Cloud
-* 🔄 REST APIs
-* 🏗️ Backend Architecture
-* 📋 Scrum
+* 🔄 APIs REST
+* 🏗️ Arquitetura Backend
 * 🐙 Git & GitHub
 
 ---
 
-## 💼 About Me
+## 💼 Sobre Mim
 
-* 🎓 Computer Science Student
-* 💻 Experience with Full Stack Development
-* 🔌 Experience with APIs and Systems Integration
-* 📚 Constantly studying Software Engineering best practices
-* 🎯 Goal: Become a Backend Java Developer
+* 🎓 Estudante de Ciência da Computação
+* 💻 Experiência com desenvolvimento Full Stack
+* 🔌 Experiência com APIs e Integração de Sistemas
+* 📚 Estudando continuamente boas práticas de Engenharia de Software
+* 🎯 Objetivo: Tornar-me Desenvolvedora
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gisele-bezerra" target="_blank">
@@ -56,7 +55,7 @@ Passionate about software development, APIs, integrations and backend architectu
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tecnologias e Ferramentas
 
 ### Backend
 
@@ -70,19 +69,19 @@ Passionate about software development, APIs, integrations and backend architectu
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 </p>
 
-### Database
+### Banco de Dados
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Cloud & Dev Tools
+### Cloud & DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,git,github" />
 </p>
 
-### Other Knowledge
+### Outros Conhecimentos
 
 <p align="center">
 
@@ -95,67 +94,69 @@ Passionate about software development, APIs, integrations and backend architectu
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projetos em Destaque
 
 ### CRUD Funcionário
 
 ✔️ Java
-✔️ Object-Oriented Programming
-✔️ Business Rules
-✔️ Validations
+✔️ Programação Orientada a Objetos
+✔️ Regras de Negócio
+✔️ Validações
 ✔️ Collections
 
 🔗 https://github.com/GiseleBezerra/Crud-Funcionario
 
 ### Estudos Java
 
-Repository dedicated to Java learning and practice.
+Repositório dedicado aos meus estudos e exercícios em Java.
 
 🔗 https://github.com/GiseleBezerra/estudos-java
 
 ### Lógica de Programação
 
-Programming logic exercises and problem solving.
+Exercícios para prática de lógica, algoritmos e resolução de problemas.
 
 🔗 https://github.com/GiseleBezerra/logica-de-programacao
 
 ### Saúde Conecta
 
-Repository of a university project
+Projeto acadêmico desenvolvido em equipe.
 
 🔗 https://github.com/GiseleBezerra/saude-conecta
 
+---
+
+## 🎯 Foco Atual
+
+<p align="center">
+☕ Java • 🌱 Spring Boot • ☁️ AWS • 🔄 APIs REST • 🏗️ Arquitetura Backend
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## ⚡ Stack Principal
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GiseleBezerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiseleBezerra&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GiseleBezerra&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,aws,mysql,git,github,php,python,js,ts,html,css,cs" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
+## 📈 Atividade no GitHub
 
-* ✅ Improve Java fundamentals
-* 🔄 Master Spring Boot
-* ☁️ Learn AWS services
-* 🔄 Build REST APIs
-* 📦 Develop complete backend projects
-* 🚀 Get a Backend Developer position
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiseleBezerra&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎯 Metas para 2026
+
+* ✅ Consolidar os fundamentos de Java
+* 🌱 Dominar Spring Boot
+* ☁️ Aprender os principais serviços da AWS
+* 🔄 Construir APIs REST completas
+* 📦 Desenvolver projetos backend mais robustos
 
 ---
 
