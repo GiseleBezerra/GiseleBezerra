@@ -145,14 +145,6 @@ Projeto acadêmico desenvolvido em equipe.
 
 ---
 
-## 📈 Atividade no GitHub
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiseleBezerra&theme=tokyo-night" />
-</p>
-
----
-
 ## 🎯 Metas para 2026
 
 * ✅ Consolidar os fundamentos de Java
